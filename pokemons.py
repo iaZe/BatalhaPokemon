@@ -1,29 +1,35 @@
 def charmander():
     vida = 39
     ataque = 52
-    return vida, ataque
+    agilidade = 35
+    return vida, ataque, agilidade
 
 def squirtle():
     vida = 60
     ataque = 43
-    return vida, ataque
+    agilidade = 65
+    return vida, ataque, agilidade
 
 def bulbasaur():
     vida = 45
     ataque = 49
-    return vida, ataque
+    agilidade = 45
+    return vida, ataque, agilidade
 
 def charmander_selvagem():
-    vida = 39
+    vida = 109
     ataque = 34
-    return vida, ataque
+    agilidade = 35
+    return vida, ataque, agilidade
 
 def squirtle_selvagem():
     vida = 60
     ataque = 28
-    return vida, ataque
+    agilidade = 65
+    return vida, ataque, agilidade
 
 def bulbasaur_selvagem():
     vida = 45
     ataque = 32
-    return vida, ataque
+    agilidade = 45
+    return vida, ataque, agilidade
